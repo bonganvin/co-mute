@@ -24,7 +24,6 @@ namespace CoMute.Web.Controllers.API
                 {
                     existingUser.Status_ID = 2;
 
-
                     co.SaveChanges();
                 }
                 else

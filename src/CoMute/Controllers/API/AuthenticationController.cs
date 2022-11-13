@@ -25,7 +25,6 @@ namespace CoMute.Web.Controllers.API
             }
             else
             {
-
                 return Request.CreateResponse(HttpStatusCode.OK);
             }
 
